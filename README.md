@@ -26,4 +26,4 @@ wget https://raw.githubusercontent.com/rylka/Deb9-OpenVPN-Script-EZMOD-OCS/maste
 wget https://raw.githubusercontent.com/rylka/Deb9-OpenVPN-Script-EZMOD-OCS/master/Deb9 -O ./Deb9 && chmod +x Deb9 && ./Deb9
 <br>
 <b>Ubuntu Autoscript sshvpn</b><br>
-wget https://raw.githubusercontent.com/rylka/Deb9-OpenVPN-Script-EZMOD-OCS/master/Ubu -O ./Ubu&& chmod +x Ubu && ./Ubu
+wget https://raw.githubusercontent.com/rylka/Deb9-OpenVPN-Script-EZMOD-OCS/master/Ubu -O ./Ubu && chmod +x Ubu && ./Ubu
