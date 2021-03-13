@@ -5,8 +5,9 @@ sleep 2
 echo "deb http://build.openvpn.net/debian/openvpn/release/2.4 stretch main" > /etc/apt/sources.list.d/openvpn-aptrepo.list
 #Requirement
 #php7.0 prep
-apt install python-software-properties
+#apt install python-software-properties
 add-apt-repository ppa:ondrej/php
+apt install software-properties-common
 #^php7.0 prep
 apt update
 apt upgrade -y
